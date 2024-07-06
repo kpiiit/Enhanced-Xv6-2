@@ -32,6 +32,3 @@ On being run on a double CPU, the data obtained is as follows ➖
 
 ### Fine-Tuning and Optimization: 
    The weights assigned to RTime, STime, and WTime in the RBI calculation can be adjusted to fine-tune the scheduling algorithm. This allows you to give more or less importance to certain aspects of process behavior.
-
-# CAFE SIM
-   ### PRINT STATEMENTS IN CODE.
